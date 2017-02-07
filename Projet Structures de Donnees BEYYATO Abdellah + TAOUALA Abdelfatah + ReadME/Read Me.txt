@@ -1,0 +1,5 @@
+AVL + BTREE => Juste la console
+Table de Hachage + Arbres Rouges et Noirs + Listes Chainees => Interface Grapique(Le main se trouve dans le package com.structurededonnes.main)
+
+Utiliser La derniere version d'eclipse (eclipse Neon 32 bits)
+
